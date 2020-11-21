@@ -1,0 +1,2 @@
+# within-class_variance_between-class_variance_ratio
+クラス内分散・クラス間分散比のモジュール作成
